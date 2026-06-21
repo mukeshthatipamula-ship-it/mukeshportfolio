@@ -1,0 +1,16 @@
+GitHub Pages Upload Steps
+
+1. Open your GitHub repository.
+2. Upload the CONTENTS of this folder, not the outer ZIP folder.
+3. Confirm index.html is visible in the main/root area of the repository.
+4. Go to Settings > Pages.
+5. Select Deploy from a branch.
+6. Branch: main
+7. Folder: /root
+8. Click Save.
+9. Wait 2-5 minutes and refresh your GitHub Pages URL.
+
+Important:
+- Do not upload the folder as one folder inside the repository.
+- index.html must be directly visible in the repository root.
+- Image paths are relative: assets/images/...
